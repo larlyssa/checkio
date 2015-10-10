@@ -1,4 +1,7 @@
 """
+
+DIFFICULTY: ELEMENTARY
+
 Ever tried to send a secret message to someone without using the postal service? 
 You could use newspapers to tell your secret.
 Even if someone finds your message, it’s easy to brush them off and that its paranoia and a bogus conspiracy theory. 
