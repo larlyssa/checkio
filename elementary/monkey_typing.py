@@ -1,4 +1,7 @@
 """
+
+DIFFICULTY: ELEMENTARY
+
 The infinite monkey theorem states that a monkey hitting keys at random on a typewriter keyboard
 for an infinite length of time will almost surely type out a given text, such as the complete works of John Wallis,
 or more likely, a Dan Brown novel.
