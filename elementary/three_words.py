@@ -1,4 +1,7 @@
 """
+
+DIFFICULTY: ELEMENTARY
+
 Let's teach the Robots to distinguish words and numbers.
 You are given a string with words and numbers separated by whitespaces (one space). 
 The words contains only letters. You should check if the string contains three words in succession. 
