@@ -1,5 +1,5 @@
 """
-DIFFICULTY: SIMPLE
+DIFFICULTY: ELEMENTARY
 
 You should write a function to calculate the area of simple figures: circles, rectangles and triangles. You are give an arbitrary number of arguments and depending on this, the function calculates area for the different figures.
 One argument -- The diameter of a circle and you need calculate the area of the circle.
